@@ -4,9 +4,9 @@ There is a misconception that to learn something new, you need to spend 10,000 h
 >
 > 20hrs is the least amount of time to learn a new skill, you can start from knowing nothing about that skill. If you put first 20hrs without any distraction and lots of practive, you will become good enough on that skill. There's a way to pratice intelligently, and efficiently. 
 >
->There are 4 simple steps to learn a new skill :
+>4 simple steps to learn a new skill :
 >
->**_1. Deconstruct the skill_** - Firstly decide what you want to learn and then look into that skill and break it into smaller smaller skils.
+>**_1. Deconstruct the skill_** - Firstly decide what you want to learn and then look into that skill and break it into smaller smaller skills.
 >
 >**_2. Learn enough to self-correct_** - collect atleast 3 to 5 resourses about what you are trying to learn. And learn enough to notice when you are making a mistake.
 >
