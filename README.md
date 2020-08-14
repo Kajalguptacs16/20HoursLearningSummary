@@ -14,4 +14,5 @@ There is a misconception that to learn something new, you need to spend 10,000 h
 >
 >**4. Practice atleast 20Hrs** - In the initial phase of learning something new, there is an intial frastration that you need to overcome to continuously prative 20 hrs on the same thing.
 >
->        **_The major barrier to skill acquisition is not intellectual... It's emotional._**
+
+        _The major barrier to skill acquisition is not intellectual... It's emotional._
