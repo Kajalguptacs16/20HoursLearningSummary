@@ -6,11 +6,12 @@ There is a misconception that to learn something new, you need to spend 10,000 h
 >
 >#There are 4 simple steps to learn a new skill:
 >
-**1. Deconstruct the skill** - Firstly decide what you want to learn and then look into that skill and break it into smaller smaller skils.
+>**1. Deconstruct the skill** - Firstly decide what you want to learn and then look into that skill and break it into smaller smaller skils.
 >
 >**2. Learn enough to self-correcct** - collect atleast 3 to 5 resourses about what you are trying to learn. And learn enough to notice when you are making a mistake.
 >
 >**3. Remove practice barriers** - Make it easier by getting rid of all the distractions like Television, Internet, and Mobile phone etc, All the things that keeps us fro practicing.
 >
 >**4. Practice atleast 20Hrs** - In the initial phase of learning something new, there is an intial frastration that you need to overcome to continuously prative 20 hrs on the same thing.
+>
                                                   **_The major barrier to skill acquisition is not intellectual... It's emotional._**
